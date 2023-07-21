@@ -35,7 +35,7 @@ Browse news articles from different categories:
 ## Getting Started
 To run the NewsPath app on your local machine, follow these steps:
 
-- Clone the repository: git clone https://github.com/your-username/newspath.git
+- Clone the repository: git clone https://github.com/mukulpythondev/NewsPath-React-Project
 - Navigate to the project directory: cd newspath
 - Install the dependencies: npm install
 - Start the development server: npm start
